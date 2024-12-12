@@ -1,3 +1,4 @@
 jaclang~=0.7.27
 mtllm~=0.3.3
 jac-cloud~=0.1.13
+sentence-transformers~=2.0.0
